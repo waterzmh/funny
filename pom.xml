@@ -8,6 +8,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<modules>
 		<module>email</module>
+		<module>id-card</module>
 	</modules>
 	<packaging>pom</packaging>
 
