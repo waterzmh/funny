@@ -2,7 +2,6 @@ package org.water;
 
 import com.sun.mail.util.MailSSLSocketFactory;
 import org.springframework.core.io.ClassPathResource;
-import org.springframework.stereotype.Service;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;
@@ -18,7 +17,6 @@ import java.util.Properties;
  * @author water
  * @since 2018/12/4 3:16 PM
  */
-@Service
 public class EmailService {
 
     private static org.springframework.core.io.Resource resource = new ClassPathResource("emailTemplate.html");
