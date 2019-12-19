@@ -44,6 +44,7 @@
 	</properties>
 
 	<dependencies>
+		<!--小于4.4版本某些包的方法有bug-->
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-collections4</artifactId>
