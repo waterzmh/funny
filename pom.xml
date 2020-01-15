@@ -10,7 +10,9 @@
 		<module>email</module>
 		<module>id-card</module>
         <module>dingding</module>
-    </modules>
+		<module>java-grammer</module>
+		<module>file-tansform</module>
+	</modules>
 	<packaging>pom</packaging>
 
 	<name>funny</name>
