@@ -35,7 +35,7 @@
 		<!--验证邮箱格式是否正确的工具包-->
 		<dnsjava>2.1.8</dnsjava>
 		<!--junit-->
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<hessian-version>4.0.38</hessian-version>
 		<dnsjava>2.1.8</dnsjava>
 		<emoji-java>4.0.0</emoji-java>
